@@ -1,5 +1,7 @@
 # LinAlert
-![IMPORTANT] This readme file is a work in progress. Things might change over time!
+
+# NOTICE!:
+This readme file is a work in progress. Things might change over time!
 
 # About
 LinAlert is basically, in short, a custom weather radio for Debian systems.
