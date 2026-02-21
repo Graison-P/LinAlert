@@ -1,6 +1,0 @@
-Package: linalert
-Version: 1.0.0
-Architecture: all
-Maintainer: Graison Parkhurst <graisonparkhurst1@gmail.com>
-Depends: python3, python3-requests, espeak-ng, alsa-utils
-Description: A NWS/IEMBot API alert systemn that aims to be a custom-ish weather radio app.
