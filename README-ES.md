@@ -9,4 +9,4 @@ WinAlert es, básicamente, una radio meteorológica personalizada para sistemas 
 # Características
 * Puede crear las mismas cabeceras
 * APIs de NWS para alertas
-* ¡Compatibilidad con inglés! (Compatibal with English! Wait, if you understand English and aren't a native Spanish person, why are you here?)
+* ¡Compatibilidad con inglés!
