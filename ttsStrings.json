@@ -1,9 +1,5 @@
 {
   "eng": {
-    "welcome_msg": "Welcome to LinAlert!",
-    "select_lang": "Language:",
-    "location": "Please enter the name of your city or town, or enter your ZIP Code and LinAlert will keep it in mind to get your local weather and alerts:",
-    "current_forecast": "The current forecast in {LOCATION} is:",
     "alert_msg": "The National Weather Service has issued an {ALERTTYPE} for {AREAS} until {TIME}.",
     "watch_msg": "A {ALERTTYPE} is in effect for {AREAS} until {TIME}. Be prepared.",
     "adv_msg": "A {ALERTTYPE} has been issued for {AREAS}. Exercise caution.",
@@ -20,21 +16,9 @@
     "status_observed": "reported by trained spotters",
     "status_radar": "indicated by doppler radar",
     "test_msg": "This is a coordinated test of the Emergency Alert System. This is only a test. LinAlert follows these tests to comply with certain standards.",
-    "test_footer": "If this had been an actual emergency, official instructions would have followed the alert tones. This message was only a test; no emergency is active.",
-    "menu_title": "--- LinAlert Settings ---",
-    "set_lang": "1. Change Language (Current: English)",
-    "set_voice": "2. Select Voice Engine (Paul/Standard)",
-    "set_location": "3. Update Location/ZIP Code",
-    "set_audio_out": "4. Audio Output Device",
-    "set_screech": "5. Toggle SAME Header Tones (ON/OFF)",
-    "set_priority": "6. High-Priority Alert Mode (ON/OFF)",
-    "save_exit": "7. Save and Exit"
+    "test_footer": "If this had been an actual emergency, official instructions would have followed the alert tones. This message was only a test; no emergency is active."
   },
   "span": {
-    "welcome_msg": "¡Bienvenido a LinAlert!",
-    "select_lang": "Idioma:",
-    "location": "Por favor, ingrese el nombre de su ciudad o pueblo, o ingrese su código postal y LinAlert lo tendrá en cuenta para obtener el clima y las alertas locales:",
-    "current_forecast": "El pronóstico actual en {LOCATION} es:",
     "alert_msg": "El Servicio Nacional de Meteorología ha emitido una {ALERTTYPE} para {AREAS} hasta las {TIME}.",
     "watch_msg": "Una {ALERTTYPE} está en efecto para {AREAS} hasta las {TIME}. Esté preparado.",
     "adv_msg": "Se ha emitido una {ALERTTYPE} para {AREAS}. Tenga precaución.",
@@ -51,13 +35,6 @@
     "status_observed": "reportado por observadores capacitados",
     "status_radar": "indicado por el radar doppler",
     "test_msg": "Esta es una prueba coordinada del Sistema de Alerta de Emergencia. Esto es solo una prueba. LinAlert sigue estas pruebas para cumplir con ciertos estándares.",
-    "test_footer": "Si esto hubiera sido una emergencia real, las instrucciones oficiales habrían seguido a los tonos de alerta. Este mensaje fue solo una prueba; no hay ninguna emergencia activa.",
-    "menu_title": "--- Configuración de LinAlert ---",
-    "set_lang": "1. Cambiar Idioma (Actual: Español)",
-    "set_voice": "2. Seleccionar Motor de Voz (Violetta/Estándar)",
-    "set_location": "3. Actualizar Ubicación/Código Postal",
-    "set_audio_out": "4. Dispositivo de Salida de Audio",
-    "set_screech": "5. Alternar Tonos de Cabecera SAME (ENCENDIDO/APAGADO)",
-    "set_priority": "6. Modo de Alerta de Alta Prioridad (ENCENDIDO/APAGADO)",
-    "save_exit": "7. Guardar y Salir"
+    "test_footer": "Si esto hubiera sido una emergencia real, las instrucciones oficiales habrían seguido a los tonos de alerta. Este mensaje fue solo una prueba; no hay ninguna emergencia activa."
   }
+}
