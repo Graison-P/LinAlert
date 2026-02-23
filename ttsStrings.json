@@ -1,10 +1,9 @@
 {
   "eng": {
     "alert_msg": "The National Weather Service has issued an {ALERTTYPE} for {AREAS} until {TIME}.",
-    "watch_msg": "A {ALERTTYPE} is in effect for {AREAS} until {TIME}. Be prepared.",
+    "watch_msg": "A {ALERTTYPE} is in effect for {AREAS} until {TIME}.",
     "adv_msg": "A {ALERTTYPE} has been issued for {AREAS}. Exercise caution.",
     "stat_msg": "A significant weather statement has been issued for {AREAS}.",
-    "unknown_alert_msg": "Unknown alert for your area. Please check your local weather stations or go to your respective weather dot gov website.",
     "torsafe": "Immediately get to an underground shelter now. Your life may be in danger. Do not go outside. Stay indoors.",
     "tstormsafe": "Please do not go outside unless necessary, for purposes like groceries, food, or work.",
     "wstormsafe": "Expect large amounts of snow. If you are planning to drive, ensure you have winter tires or chains applied to your vehicle. Staying indoors is recommended. Turn on the heat. Drip pipes to prevent other water sources from freezing.",
@@ -147,7 +146,6 @@
     "watch_msg": "Una {ALERTTYPE} está en efecto para {AREAS} hasta las {TIME}. Esté preparado.",
     "adv_msg": "Se ha emitido una {ALERTTYPE} para {AREAS}. Tenga precaución.",
     "stat_msg": "Se ha emitido una declaración meteorológica significativa para {AREAS}.",
-    "unknown_alert_msg": "Alerta desconocida para su área. Por favor, consulte sus estaciones meteorológicas locales o visite el sitio web weather punto gov correspondiente.",
     "torsafe": "Busque refugio bajo tierra inmediatamente. Su vida puede estar en peligro. No salga al exterior. Permanezca adentro.",
     "tstormsafe": "Por favor, no salga al exterior a menos que sea necesario, para propósitos como víveres, comida o trabajo.",
     "wstormsafe": "Se esperan grandes cantidades de nieve. Si planea conducir, asegúrese de tener neumáticos de invierno o cadenas en su vehículo. Se recomienda permanecer bajo techo. Encienda la calefacción. Deje gotear las tuberías para evitar que se congelen.",
