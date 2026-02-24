@@ -1,1 +1,1 @@
-WinAlert Frontend - Hosted on {userDeviceInfo}, request made at {dateTime}
+WinAlert Frontend - Hosted on {userSystemInfo}
