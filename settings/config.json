@@ -1,8 +1,8 @@
 {
-  "fileEditedOn": "",
-  "userSystemInfo": "",
-  "userLocation": "",
-  "sameHeadersEnabled": "",
-  "ttsEnabled": "",
-  "userLang": "",
+  "fileEditedOn": null,
+  "userSystemInfo": null,
+  "userLocation": null,
+  "sameHeadersEnabled": true,
+  "ttsEnabled": true,
+  "userLang": null
 }
